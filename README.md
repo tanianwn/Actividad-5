@@ -1,1 +1,1 @@
-# Actividad-5-Modelado-de-Energ-a-Cin-tica-
+# Actividad-5-Modelado-de-Energia-Cinetica-
