@@ -3,7 +3,7 @@
 
 ## Sistema de referencia
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c00fe192-00e9-46b2-9e01-b91bf8785eda" width="600" alt="Robot Cartesiano 3GDL"/>
+  <img src="https://github.com/user-attachments/assets/99e9fb1e-41b3-4bcd-b1f2-138ca9569c99" width="600" alt="Robot Cartesiano 3GDL"/>
 </p>
 
 ---
