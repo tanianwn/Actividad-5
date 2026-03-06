@@ -3,10 +3,11 @@
 
 ## Sistema de referencia
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d1dc1293-3cec-44a9-b42c-86b106e3942e" width="600" alt="Robot Cartesiano 3GDL"/>
+  <img src="https://github.com/user-attachments/assets/c00fe192-00e9-46b2-9e01-b91bf8785eda" width="600" alt="Robot Cartesiano 3GDL"/>
 </p>
 
 ---
+
 
 ## L1 → L2
 
